@@ -26,3 +26,4 @@ let str2='World'
 console.log('+:', str+' '+str2)
 console.log('1+2', 1+'2')
 console.log('str+num1', str+num1)
+console.log('fine')
