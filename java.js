@@ -18,7 +18,7 @@ Undefined
 // let undef=undefined
 
 // console.log(typeof undef)
-let num1=12
+let num1=11
 let num2=8
 console.log('+', num1+num2)
 let str='Hello'
