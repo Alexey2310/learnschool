@@ -1,3 +1,1 @@
-Java bidgava
-
-Course
+#Java bidgava
